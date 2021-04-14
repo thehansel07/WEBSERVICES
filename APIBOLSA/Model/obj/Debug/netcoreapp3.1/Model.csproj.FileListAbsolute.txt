@@ -1,0 +1,16 @@
+C:\Users\MSI\source\repos\APIBOLSA\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\Users\MSI\source\repos\APIBOLSA\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\MSI\source\repos\APIBOLSA\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\APIBOLSA\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\Users\MSI\source\repos\APIBOLSA\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\MSI\source\repos\APIBOLSA\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\Users\MSI\source\repos\APIBOLSA\Model\obj\Debug\netcoreapp3.1\Model.pdb
+D:\MSI\Proyectos Web\APIBOLSA\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+D:\MSI\Proyectos Web\APIBOLSA\Model\bin\Debug\netcoreapp3.1\Model.dll
+D:\MSI\Proyectos Web\APIBOLSA\Model\bin\Debug\netcoreapp3.1\Model.pdb
+D:\MSI\Proyectos Web\APIBOLSA\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+D:\MSI\Proyectos Web\APIBOLSA\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+D:\MSI\Proyectos Web\APIBOLSA\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+D:\MSI\Proyectos Web\APIBOLSA\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+D:\MSI\Proyectos Web\APIBOLSA\Model\obj\Debug\netcoreapp3.1\Model.dll
+D:\MSI\Proyectos Web\APIBOLSA\Model\obj\Debug\netcoreapp3.1\Model.pdb

@@ -1,0 +1,13 @@
+C:\Users\MSI\source\repos\APIBOLSA\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\MSI\source\repos\APIBOLSA\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\MSI\source\repos\APIBOLSA\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\APIBOLSA\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\APIBOLSA\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\MSI\source\repos\APIBOLSA\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\MSI\source\repos\APIBOLSA\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\MSI\source\repos\APIBOLSA\Services\obj\Debug\netcoreapp3.1\Services.pdb
+C:\Users\MSI\source\repos\APIBOLSA\Services\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\MSI\source\repos\APIBOLSA\Services\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\MSI\source\repos\APIBOLSA\Services\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\MSI\source\repos\APIBOLSA\Services\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\Users\MSI\source\repos\APIBOLSA\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete

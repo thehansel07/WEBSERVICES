@@ -1,0 +1,13 @@
+C:\Users\MSI\source\repos\APIBOLSA\Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
+C:\Users\MSI\source\repos\APIBOLSA\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\MSI\source\repos\APIBOLSA\Persistence\obj\Debug\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\APIBOLSA\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\APIBOLSA\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+C:\Users\MSI\source\repos\APIBOLSA\Persistence\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\MSI\source\repos\APIBOLSA\Persistence\bin\Debug\netcoreapp3.1\Persistence.runtimeconfig.json
+C:\Users\MSI\source\repos\APIBOLSA\Persistence\bin\Debug\netcoreapp3.1\Persistence.runtimeconfig.dev.json
+C:\Users\MSI\source\repos\APIBOLSA\Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\Users\MSI\source\repos\APIBOLSA\Persistence\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\MSI\source\repos\APIBOLSA\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete
+C:\Users\MSI\source\repos\APIBOLSA\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\MSI\source\repos\APIBOLSA\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb
